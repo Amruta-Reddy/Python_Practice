@@ -1,0 +1,5 @@
+![Screenshot 2023-09-23 084610](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/765abb69-45b1-4809-a136-de28bbd1111f)
+![Screenshot 2023-09-23 084634](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/2fdd8d39-8f54-4b75-9467-69604bd53bed)
+![Screenshot 2023-09-23 084647](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/e21d1f43-56b1-48f2-b1da-a7dd51306650)
+![Screenshot 2023-09-23 084702](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/a127f729-c817-4a38-b43e-63436653133d)
+![Screenshot 2023-09-23 084715](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/974b8b0e-13aa-488c-b8f4-e3c0a675d2c6)
