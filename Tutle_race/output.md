@@ -1,0 +1,5 @@
+![output1](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/9e3ee969-a662-42ff-a5fb-d506aaa0d8c5)
+![output2](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/ce81f191-ec19-4073-9e8e-9ef4ff45648d)
+![output3](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/a5dd1fd9-d212-432a-a56c-8f2667e49f99)
+![output4](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/c39ae166-f3de-4d38-a087-35155d852344)
+![output5](https://github.com/Amruta-Reddy/Python_Practice/assets/115242296/84595113-503e-4229-9e48-706b5d3e5c4c)
